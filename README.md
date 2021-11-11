@@ -7,7 +7,7 @@ A template and demo project for Unity navigation meshes and pathfinding. It incl
 Project has been developed on Unity 2021.1.23f1. If you are facing with errors, **please check your Unity and package versions**. Please keep in my that using different versions may result with errors.
 
 
-Following screenshot has taken from sample scene. Small yellowish part of the plane on the upper side is demostrated as sandy area which has a higher cost. Moving on this sandy area has a higher cost for the agent, so it avoids to use there if it is possible. The green box is a dynamic obstacle, when it is moved the agent recalculates its route to target. However, you can move the dynamic obstacle only in Unity Editor. To be able move it on Android, you can use raycasting just like i used for the agent.
+Following screenshot has taken from sample scene. Small yellowish part of the plane on the upper side is demostrated as sandy area which has a higher cost. Moving on this sandy area has a higher cost for the agent, so it avoids to use there if it is possible. The green box is a dynamic obstacle, when it is moved the agent recalculates its route to target. However, you can move the dynamic obstacle only in Unity Editor. To be able move it on Android, you can use raycasting just like I used for the agent.
 
 <img src="/Images/NavMesh.jpg" width="800" height="360">
 
